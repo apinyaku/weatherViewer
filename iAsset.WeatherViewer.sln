@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iAsset.WeatherViewer.DataModel", "iAsset.WeatherViewer.DataModel\iAsset.WeatherViewer.DataModel.csproj", "{46B6139B-DDA1-461C-8B92-93255AF1B3F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iAsset.WeatherViewer.MVC", "iAsset.WeatherViewer.MVC\iAsset.WeatherViewer.MVC.csproj", "{D7EE082A-EFA3-41C9-B199-6346EC478237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iAsset.WeatherViewer.Core", "iAsset.WeatherViewer.Core\iAsset.WeatherViewer.Core.csproj", "{75701015-DB8B-48EE-8455-9E72575E3A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iAsset.WeatherViewer.MVC.Tests", "iAsset.WeatherViewer.MVC.Tests\iAsset.WeatherViewer.MVC.Tests.csproj", "{1E233706-7B41-47FB-A6DD-3856231DD2D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B6139B-DDA1-461C-8B92-93255AF1B3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B6139B-DDA1-461C-8B92-93255AF1B3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B6139B-DDA1-461C-8B92-93255AF1B3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B6139B-DDA1-461C-8B92-93255AF1B3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7EE082A-EFA3-41C9-B199-6346EC478237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EE082A-EFA3-41C9-B199-6346EC478237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EE082A-EFA3-41C9-B199-6346EC478237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EE082A-EFA3-41C9-B199-6346EC478237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75701015-DB8B-48EE-8455-9E72575E3A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75701015-DB8B-48EE-8455-9E72575E3A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75701015-DB8B-48EE-8455-9E72575E3A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75701015-DB8B-48EE-8455-9E72575E3A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E233706-7B41-47FB-A6DD-3856231DD2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E233706-7B41-47FB-A6DD-3856231DD2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E233706-7B41-47FB-A6DD-3856231DD2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E233706-7B41-47FB-A6DD-3856231DD2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\yo\Desktop\job applications\iAsset.WeatherViewer\iAsset.WeatherViewer.Core\bin\Debug\iAsset.WeatherViewer.Core.dll.config
+C:\Users\yo\Desktop\job applications\iAsset.WeatherViewer\iAsset.WeatherViewer.Core\bin\Debug\iAsset.WeatherViewer.Core.dll
+C:\Users\yo\Desktop\job applications\iAsset.WeatherViewer\iAsset.WeatherViewer.Core\bin\Debug\iAsset.WeatherViewer.Core.pdb
+C:\Users\yo\Desktop\job applications\iAsset.WeatherViewer\iAsset.WeatherViewer.Core\bin\Debug\iAsset.WeatherViewer.DataModel.dll
+C:\Users\yo\Desktop\job applications\iAsset.WeatherViewer\iAsset.WeatherViewer.Core\bin\Debug\iAsset.WeatherViewer.DataModel.pdb
+C:\Users\yo\Desktop\job applications\iAsset.WeatherViewer\iAsset.WeatherViewer.Core\obj\Debug\iAsset.WeatherViewer.Core.csprojResolveAssemblyReference.cache
+C:\Users\yo\Desktop\job applications\iAsset.WeatherViewer\iAsset.WeatherViewer.Core\obj\Debug\iAsset.WeatherViewer.Core.dll
+C:\Users\yo\Desktop\job applications\iAsset.WeatherViewer\iAsset.WeatherViewer.Core\obj\Debug\iAsset.WeatherViewer.Core.pdb

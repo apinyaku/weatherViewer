@@ -1,0 +1,71 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Scripts/jquery.fullPage.css" rel="stylesheet" />
+    <link href="~/Scripts/style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" type="text/css" />
+
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/jquery.fullPage.min.js"></script>
+    <script src="~/Scripts/Common.js"></script>
+
+</head>
+<body>
+
+    <ul id="menu">
+        <li data-menuanchor="firstPage" class="active"><a href="#firstPage">Home</a></li>
+        <li data-menuanchor="secondPage"><a href="#secondPage">Cities</a></li>
+        <li data-menuanchor="3rdPage"><a href="#3rdPage">Weather</a></li>
+    </ul>
+
+    <div id="fullpage">
+        <div class="section " id="section0">
+            <div class="mTitle">
+                <span style="color:#0094ff">i</span>asset Weather Viewer
+            </div>
+            <div>
+                <input type="text" id="txtCountryName" style="display: block;" placeholder="type country name and hit return...">
+            </div>
+
+        </div>
+        <div class="section" id="section1">
+
+            <h1 id="shuffleText">></h1>
+            <p><i>select City name to show weather details...</i></p>
+            <div id="list" class="nav">
+            </div>
+        </div>
+        <div class="section" id="section2">
+            <div class="intro">
+                <p id="H1Country">> Weather Details</p>
+                <div><span id="wLocation"></span></div>
+                <p>
+                    <div>
+                        <span id="wImgStatus"></span>
+                        <span id="wTemperature" class="dispTemperature"></span>
+                        
+                    </div>
+                  
+                    <h2 id="wSkyConditions"></h2>
+                    
+                    <div style="padding-top:20px;"><span id="wTime"></span></div>
+
+                    <div id="wDetails" style="padding-top: 20px" class="nav"></div>
+
+                </p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+
+
+<script src="~/Scripts/WeatherIndex.js"></script>
